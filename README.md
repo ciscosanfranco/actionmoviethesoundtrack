@@ -1,4 +1,4 @@
 Action Movie: The Soundtrack
 ============================
 
-Sound files for the soundtrack to Action Movie: The Video Game
+Music files for the soundtrack to Action Movie: The Series: The Video Game
